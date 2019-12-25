@@ -1,6 +1,8 @@
 {
 	"setting": "Cài đặt",
-	"wifi": "Wifi",
-	"about": "Được tạo bởi I K Y",
-	"try": "Thử lại",
+	"camera": "Camera",
+	"infomation": "Thông tin thiết bị",
+	"javascript.safari": "JavaScript Safari",
+	"utilities": "Tiện ích",
+	"other": "Khác"
 }
