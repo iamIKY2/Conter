@@ -1,8 +1,46 @@
 {
+	"battery": "Pin",
+	"time": "Thời gian",
+	"day": "Ngày",
+	"home.network": "Nhà mạng",
 	"setting": "Cài đặt",
 	"camera": "Camera",
 	"information": "Thông tin thiết bị",
 	"javascript.safari": "JavaScript Safari",
 	"utilities": "Tiện ích",
-	"other": "Khác"
+	"other": "Khác",
+	"ultra.low.power.mode": "Tiết kiệm pin",
+	"wifi": "Wifi",
+	"bluetooth": "Bluetooth",
+	"mobile.data": "Dữ liệu di động",
+	"airplance.mode": "Chế độ máy bay",
+	"dark.mode": "Chế độ tối",
+    "qr.wifi.code": "QR Wifi",
+    "flash": "Đèn pin",
+    "ping.wifi": "Tốc độ wifi",
+    "respring": "Khởi động nhanh",
+    "reboot": "Khởi động",
+    "turn": "Bật",
+    "off": "Tắt",
+    "wifi.name": "Đây có phải wifi của bạn",
+    "wifi.password": "Mật khẩu wifi",
+    "alert.respring": "Khởi dộng nhanh sẽ làm ngưng quá trình sao lưu ứng dụng của bạn.",
+    "alert.reboot": "Khởi động sẽ làm ngưng quá trình sao lưu ứng dụng của bạn." ,
+    "back": "<--Trở lại",
+    "take.behind": "Chụp phía sau",
+    "take.front": "Chụp phía trước",
+    "videos": "Quay videos",
+    "qr.scanning": "Quét QR",
+    "save": "Lưu",
+    "share": "Chia sẻ",
+    "name": "Tên:",
+    "version": "Phiên bản:",
+    "screen": "Màn hình:",
+    "brightness": "Ánh sáng:",
+    "volume": "Âm thanh",
+    
+
+
+
+
 }
