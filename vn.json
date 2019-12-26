@@ -38,9 +38,28 @@
     "screen": "Màn hình:",
     "brightness": "Ánh sáng:",
     "volume": "Âm thanh",
-    
-
-
-
-
+    "country.code": "Mã quốc gia",
+    "name.wifi": "Tên wifi",
+    "ipv4": "Địa chỉ IP",
+    "view.html": "Xem nguồn HTML",
+    "change.font": "Đổi phong chữ",
+    "change.videos": "Tốc độ videos",
+    "add": "Đã có địa chỉ",
+    "at.website": "Tại Website",
+    "enter.manually": "Nhập thủ công",
+    "enter.url": "Nhập địa chỉ",
+    "font": "Bạn muốn chọn font chữ nào?",
+    "speed": "Tốc độ cho videos",
+    "photos.size": "Kích cỡ ảnh",
+    "size": "Kích cỡ",
+    "is": "là",
+    "backups": "Sao lưu phím tắt",
+    "about": "Thông tin Conter",
+    "check": "Cập nhật ",
+    "website": "Trang chủ",
+    "made": "Được tạo bởi I K Y(@iamIKY2)",
+    "thank": "Cảm ơn",
+    "updatekit": "Updatekit tạo bởi Mike Beasley(@MikeBeas)",
+    "routinehub": "RoutineHub tạo bởi Harley Hicks(@hmhrex)",
+    "alert.check": "Conter của bạn đã được cạp nhật phiên bản",
 }
